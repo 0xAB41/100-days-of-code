@@ -6,4 +6,6 @@ The log of my #100DaysOfCode challenge. Started on [May 15, Friday, 2020].
 
 ### R1D1 
 
-### R1D2
+- Cleanup [dotfiles](https://github.com/0xAB41/dotfiles)
+- Setup a VPS and a hugo blog
+
